@@ -3,8 +3,7 @@
 <p>My name is Artem. I am glad to welcome you here.</p>
 
 ### Languages I know
-<img src='https://img.shields.io/badge/python-blue?logo=python&logoColor=white'>
-<img src='https://img.shields.io/badge/javascript-blue?logo=javascript&logoColor=white'>
+<img src='https://img.shields.io/badge/python-blue?logo=python&logoColor=white'> <img src='https://img.shields.io/badge/javascript-blue?logo=javascript&logoColor=white'>
 
 ### My leetcode stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/chimchimster?theme=wtf)
