@@ -3,8 +3,12 @@
 <p>My name is Artem. I am glad to welcome you here.</p>
 ![Static Badge](https://img.shields.io/badge/python-yellow)
 
-### My leetcode stats
+
 <img src='https://img.shields.io/badge/python-blue?logo=python&logoColor=white'>
+
+### My leetcode stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/chimchimster?theme=wtf)
+
 <!--
 **chimchimster/chimchimster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
