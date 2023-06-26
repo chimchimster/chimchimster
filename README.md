@@ -11,9 +11,11 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div id='technologies'>
         <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' title='python' alt='Python' width='40px' height='40px'>&nbsp;
+        <img src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg' title='django' alt='Django' width='40px' height='40px'>&nbsp;
+        <img src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg' title='mysql' alt='MySQL' width='40px' height='40px'>&nbsp;
 </div>
 
-### Languages I know
+### 🔄: Contacts
 <img src='https://img.shields.io/badge/python-blue?logo=python&logoColor=white'> <img src='https://img.shields.io/badge/javascript-blue?logo=javascript&logoColor=white'> <img src='https://img.shields.io/badge/bash-blue?logo=gnubash&logoColor=white'> <img src='https://img.shields.io/badge/html-yellow?logo=html5&logoColor=white'> <img src='https://img.shields.io/badge/css-yellow?logo=css3&logoColor=white'>
 
 ### Languages I'm currently learning
