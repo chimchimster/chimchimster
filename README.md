@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p>My name is Artem. I am glad to welcome you here.</p>
+![Static Badge](https://img.shields.io/badge/python-yellow)
+
+### My leetcode stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/chimchimster)
 
 
