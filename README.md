@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<p>My name is Artem. I am glad to welcome you here.</p>
+<div id='about'>
+        <p>🙋‍♂️My name is Artem. I'm backend developer from Kazakhstan.</p><br>
+        <p>👨‍💻I'm working as a Software Engineer in a big tech company.</p>
+        <p>🙏I am glad to welcome you here.</p>
+</div>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/chimchimster?theme=wtf)
 
@@ -10,9 +14,7 @@
 ### Languages I'm currently learning
 <img src='https://img.shields.io/badge/c%2B%2B-green?logo=c%2B%2B&logoColor=white'>
 
-        
 <img src="https://komarev.com/ghpvc/?username=chimchimster&style=flat-square&color=blue" alt=""/>
-
 
 <!--
 **chimchimster/chimchimster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
