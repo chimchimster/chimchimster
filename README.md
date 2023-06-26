@@ -29,15 +29,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chimchimster&theme=default)](https://git.io/streak-stats)
 
-### Leetcode profile <a href='https://leetcode.com/chimchimster/' target="_blank" rel="noopener noreferrer"><img src='https://img.shields.io/badge/leetcode-white?style=plastic&logo=leetcode&logoColor=black'></a> :
+### 🖥️: Leetcode profile <a href='https://leetcode.com/chimchimster/' target="_blank" rel="noopener noreferrer"><img src='https://img.shields.io/badge/leetcode-white?style=plastic&logo=leetcode&logoColor=black'></a> :
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/chimchimster?theme=wtf)
 
-
-
-### My Top Languages :
-        
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chimchimster)
 
 ### 🔄: Contacts :
 <a href='https://t.me/emptypy' target="_blank" rel="noopener noreferrer"><img src='https://img.shields.io/badge/telegram-blue?style=plastic&logo=telegram&logoColor=white'></a>&nbsp;
