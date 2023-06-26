@@ -17,9 +17,11 @@
         <img src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg' title='css3' alt='CSS3' width='40px' height='40px'>&nbsp;
         <img src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg' title='django' alt='Django' width='40px' height='40px'>&nbsp;
         <img src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg' title='mysql' alt='MySQL' width='40px' height='40px'>&nbsp;
+        <img src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original.svg' title='redis' alt='Redis' width='40px' height='40px'>&nbsp;
         <img src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg' title='linux' alt='Linux' width='40px' height='40px'>&nbsp;
         <img src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg' title='docker' alt='Docker' width='40px' height='40px'>&nbsp;
         <img src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg' title='git' alt='Git' width='40px' height='40px'>&nbsp;
+        <img src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg' title='selenium' alt='Selenium' width='40px' height='40px'>&nbsp;
         
 </div>
 
