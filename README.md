@@ -22,14 +22,11 @@
         <img src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg' title='docker' alt='Docker' width='40px' height='40px'>&nbsp;
         <img src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg' title='git' alt='Git' width='40px' height='40px'>&nbsp;
         <img src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg' title='selenium' alt='Selenium' width='40px' height='40px'>&nbsp;
-        
+        <img src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nginx/nginx-original.svg' title='nginx' alt='Nginx' width='40px' height='40px'>&nbsp;
 </div>
 
 ### 🔄: Contacts
-<img src='https://img.shields.io/badge/python-blue?logo=python&logoColor=white'> <img src='https://img.shields.io/badge/javascript-blue?logo=javascript&logoColor=white'> <img src='https://img.shields.io/badge/bash-blue?logo=gnubash&logoColor=white'> <img src='https://img.shields.io/badge/html-yellow?logo=html5&logoColor=white'> <img src='https://img.shields.io/badge/css-yellow?logo=css3&logoColor=white'>
-
-### Languages I'm currently learning
-<img src='https://img.shields.io/badge/c%2B%2B-green?logo=c%2B%2B&logoColor=white'>
+<a href=''><img src='https://img.shields.io/badge/telegram-blue?style=plastic&logo=telegram&logoColor=white'></a>
 
 <img src="https://komarev.com/ghpvc/?username=chimchimster&style=flat-square&color=blue" alt=""/>
 
