@@ -8,6 +8,11 @@
         </ul>
 </div>
 
+### :hammer_and_wrench: Languages and Tools :
+<div id='technologies'>
+        <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'>
+</div>
+
 ### Languages I know
 <img src='https://img.shields.io/badge/python-blue?logo=python&logoColor=white'> <img src='https://img.shields.io/badge/javascript-blue?logo=javascript&logoColor=white'> <img src='https://img.shields.io/badge/bash-blue?logo=gnubash&logoColor=white'> <img src='https://img.shields.io/badge/html-yellow?logo=html5&logoColor=white'> <img src='https://img.shields.io/badge/css-yellow?logo=css3&logoColor=white'>
 
