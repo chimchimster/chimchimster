@@ -24,7 +24,8 @@
 </div>
 
 ### 🔄: Contacts
-<a href='https://t.me/emptypy'><img src='https://img.shields.io/badge/telegram-blue?style=plastic&logo=telegram&logoColor=white'></a>
+<a href='https://t.me/emptypy'><img src='https://img.shields.io/badge/telegram-blue?style=plastic&logo=telegram&logoColor=white'></a>&nbsp;
+<a href='https://wa.me/77056036183'><img src='https://img.shields.io/badge/whatsapp-blue?style=plastic&logo=whatsapp&logoColor=white'></a>
 
 <img src="https://komarev.com/ghpvc/?username=chimchimster&style=flat-square&color=blue" alt=""/>
 
