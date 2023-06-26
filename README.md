@@ -1,3 +1,5 @@
+### 🤝 Hey there!
+
 <div id='about'>
         <ul>
                 <li>🙋‍♂️ My name is Artem. I'm backend developer from Kazakhstan.</li>
@@ -23,13 +25,20 @@
         <img src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nginx/nginx-original.svg' title='nginx' alt='Nginx' width='40px' height='40px'>&nbsp;
 </div>
 
-### 🔄: Contacts
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chimchimster&theme=default)](https://git.io/streak-stats)
+
+### Leetcode profile <a href='https://leetcode.com/chimchimster/' target="_blank" rel="noopener noreferrer"><img src='https://img.shields.io/badge/leetcode-white?style=plastic&logo=leetcode&logoColor=black'></a> :
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/chimchimster?theme=wtf)
+
+
+
+### My Top Languages :
+        
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chimchimster)
+
+### 🔄: Contacts :
 <a href='https://t.me/emptypy' target="_blank" rel="noopener noreferrer"><img src='https://img.shields.io/badge/telegram-blue?style=plastic&logo=telegram&logoColor=white'></a>&nbsp;
 <a href='https://wa.me/77056036183' target="_blank" rel="noopener noreferrer"><img src='https://img.shields.io/badge/whatsapp-blue?style=plastic&logo=whatsapp&logoColor=white'></a>
-
-### Leetcode ![profile](https://leetcode.com/chimchimster/)
-<div id='leetcode' align='center'>
-        ![Leetcode Stats](https://leetcard.jacoblin.cool/chimchimster?theme=wtf)
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=chimchimster&style=flat-square&color=blue" alt=""/>
