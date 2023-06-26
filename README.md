@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 <div id='about'>
-        <p>🙋‍♂️My name is Artem. I'm backend developer from Kazakhstan.</p>
-        <p>👨‍💻I'm working as a Software Engineer in a big tech company.</p>
-        <p>🙏I am glad to welcome you here.</p>
+        <ul>
+        <li>🙋‍♂️My name is Artem. I'm backend developer from Kazakhstan.</li>
+        <li>👨‍💻I'm working as a Software Engineer in a big tech company.</li>
+        <li>🙏I am glad to welcome you here.</li>
+        </ul>
 </div>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/chimchimster?theme=wtf)
