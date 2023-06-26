@@ -10,7 +10,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div id='technologies'>
-        <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'>
+        <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' title='python' alt='Python' width='40px' height='40px'>&nbsp;
 </div>
 
 ### Languages I know
