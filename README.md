@@ -1,8 +1,8 @@
 <div id='about'>
         <ul>
-                <li>🙋‍♂️My name is Artem. I'm backend developer from Kazakhstan.</li>
-                <li>👨‍💻I'm working as a Software Engineer in a big tech company.</li>
-                <li>🙏I am glad to welcome you here.</li>
+                <li>🙋‍♂️ My name is Artem. I'm backend developer from Kazakhstan.</li>
+                <li>👨‍💻 I'm working as a Software Engineer in a big tech company.</li>
+                <li>🙏 I am glad to welcome you here.</li>
         </ul>
 </div>
 
@@ -25,10 +25,11 @@
 
 ### 🔄: Contacts
 <a href='https://t.me/emptypy' target="_blank" rel="noopener noreferrer"><img src='https://img.shields.io/badge/telegram-blue?style=plastic&logo=telegram&logoColor=white'></a>&nbsp;
-<a href='https://wa.me/77056036183'><img src='https://img.shields.io/badge/whatsapp-blue?style=plastic&logo=whatsapp&logoColor=white'></a>
-
-<img src="https://komarev.com/ghpvc/?username=chimchimster&style=flat-square&color=blue" alt=""/>
+<a href='https://wa.me/77056036183' target="_blank" rel="noopener noreferrer"><img src='https://img.shields.io/badge/whatsapp-blue?style=plastic&logo=whatsapp&logoColor=white'></a>
 
 ### Leetcode ![profile](https://leetcode.com/chimchimster/)
+<div id='leetcode' align='center'>
+        ![Leetcode Stats](https://leetcard.jacoblin.cool/chimchimster?theme=wtf)
+</div>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/chimchimster?theme=wtf)
+<img src="https://komarev.com/ghpvc/?username=chimchimster&style=flat-square&color=blue" alt=""/>
