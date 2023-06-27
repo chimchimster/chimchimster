@@ -4,7 +4,7 @@
         <ul>
                 <li>🙋‍♂️ My name is Artem. I'm backend developer from Kazakhstan.</li>
                 <li>👨‍💻 I'm working as a Software Engineer in a big tech company.</li>
-                <li>🙏 I am glad to welcome you here.</li>
+                <li>🙏 Nice to meet you.</li>
         </ul>
 </div>
 
