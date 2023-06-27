@@ -29,9 +29,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chimchimster&theme=default)](https://git.io/streak-stats)
 
-### 🖥️: Leetcode profile <a href='https://leetcode.com/chimchimster/' target="_blank" rel="noopener noreferrer"><img src='https://img.shields.io/badge/leetcode-white?style=plastic&logo=leetcode&logoColor=black'></a> :
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/chimchimster?theme=wtf)
+![Leetcode Stats](https://leetcard.jacoblin.cool/chimchimster?theme=default)
 
 
 ### 🔄: Contacts :
