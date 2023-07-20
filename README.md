@@ -1,10 +1,4 @@
-### 🤝 Hey there!
-
-<div id='about'>
-        <ul>
-                <li>🙋‍♂️ Greetings!</li>
-        </ul>
-</div>
+### 🤝 Greetings!
 
 ### :hammer_and_wrench: Languages and Tools :
 <div id='technologies'>
